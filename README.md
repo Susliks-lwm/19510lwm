@@ -12,7 +12,7 @@
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575096637&di=f50c21ce75836603ac1bf943966c6697&imgtype=jpg&er=1&src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_ls%2F0%2F10479292391_240180%2F0.jpg)   
 ## markdown的语法
 *首先给个网址*   
-[有是熟悉的她](https://b23.tv/av68265443/p1https://b23.tv/av68265443/p1)   
+[10分钟让你爱上markdown](https://b23.tv/av68265443/p1https://b23.tv/av68265443/p1)   
 *然后简单列举几个基本语法*
 标题
 ---------------------------
