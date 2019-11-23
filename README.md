@@ -166,6 +166,7 @@ $$
 **提供一个非常实用的网址**[c语言中文网](http://c.biancheng.net/c/)   
 **网页里有超多资源，通俗易懂简单实用**
 **还可以咨询一下**[b站视频](https://www.bilibili.com/)   
-最后来个**效果图**展示
+最后来个**效果图**展示   
+![](https://github.com/Susliks-lwm/19510lwm/blob/master/QQ%E5%9B%BE%E7%89%8720191122144716.png)
 
 
