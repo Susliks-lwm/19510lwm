@@ -1,7 +1,7 @@
 # 虚拟机和我携手同行的日子
 ## 如何相识
 *请点击*[bilibili](https://b23.tv/av10137705)   
-**请再点击**[yingxiang](https://image.baidu.com/search/detail?ct=503316480&z=&tn=baiduimagedetail&ipn=d&word=%E4%B8%A5%E8%82%83%E8%A1%A8%E6%83%85%E5%8C%85&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=-1&hd=&latest=&copyright=&cs=3474262882,3073703382&os=4281065314,4237097979&simid=92262439,568031185&pn=5&rn=1&di=141790&ln=999&fr=&fmq=1574405334203_R&ic=&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=2&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fg.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fd6ca7bcb0a46f21fb8495e93ff246b600d33aef4.jpg&rpstart=0&rpnum=0&adpicid=0&force=undefined)
+**请再点击**[yingxiang](https://image.baidu.com/search/detail?ct=503316480&z=&tn=baiduimagedetail&ipn=d&word=%E4%B8%A5%E8%82%83%E8%A1%A8%E6%83%85%E5%8C%85&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=-1&hd=&latest=&copyright=&cs=3474262882,3073703382&os=4281065314,4237097979&simid=92262439,568031185&pn=5&rn=1&di=141790&ln=999&fr=&fmq=1574405334203_R&ic=&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=2&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fg.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fd6ca7bcb0a46f21fb8495e93ff246b600d33aef4.jpg&rpstart=0&rpnum=0&adpicid=0&force=undefined)   
 ***当然，最关键的还是群里学长学姐的外挂加持***
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574414431569&di=084be499f360306e4704c5f2233db811&imgtype=0&src=http%3A%2F%2Fimg.tukexw.com%2Fimg%2F652ee254be5118ab.jpg)
 ## 如何相知
