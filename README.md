@@ -144,10 +144,10 @@ n\in\mathbb N$
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$   
-![](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4127140153,2035518337&fm=26&gp=0.jpg)
+![](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4127140153,2035518337&fm=26&gp=0.jpg)   
 **总而言之，b站是个贼香的东西，学东西可以多多光顾**   
 ## 结语   
-![](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4127140153,2035518337&fm=26&gp=0.jpg)     
+![](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2848986191,2943062509&fm=26&gp=0.jpg)       
 # 虚拟机和我携手同行的日子
 ## 如何相识
 *请点击*[bilibili](https://b23.tv/av10137705)   
