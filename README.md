@@ -12,8 +12,4 @@
 **这是我的虚拟机**
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574499634616&di=82f2cc9be65afb93e243a59f9fa986c5&imgtype=jpg&src=http%3A%2F%2Fimg0.imgtn.bdimg.com%2Fit%2Fu%3D2969496680%2C3755658684%26fm%3D214%26gp%3D0.jpg)
 **小巧可爱，*windows7系统*  挺好玩的*
-==ps：虚拟机真的挺好玩的，主要是多多请教，多上百度查资料，其实还是挺简单的==
-
-
-
-1
+==ps：虚拟机真的挺好玩的，主要是多多请教，多上百度查资料，其实还是挺简单的=
