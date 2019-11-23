@@ -143,15 +143,11 @@ n\in\mathbb N$
 示例2
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$  
-![](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1972752721,3659303847&fm=26&gp=0.jpg)   
+$$   
+![](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4127140153,2035518337&fm=26&gp=0.jpg)
 **总而言之，b站是个贼香的东西，学东西可以多多光顾**   
 ## 结语   
-![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574502589238&di=8c763bd4be73933f3a26cdcdbba12000&imgtype=0&src=http%3A%2F%2Fimedl.sogoucdn.com%2Fcache%2Fskins%2FuploadImage%2F2019%2F10%2F29%2F15723536293674_former.png)
-
-
-
-
+![](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4127140153,2035518337&fm=26&gp=0.jpg)     
 # 虚拟机和我携手同行的日子
 ## 如何相识
 *请点击*[bilibili](https://b23.tv/av10137705)   
