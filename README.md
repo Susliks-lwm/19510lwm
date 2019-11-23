@@ -162,4 +162,10 @@ $$
 **这是我的虚拟机**   
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574499634616&di=82f2cc9be65afb93e243a59f9fa986c5&imgtype=jpg&src=http%3A%2F%2Fimg0.imgtn.bdimg.com%2Fit%2Fu%3D2969496680%2C3755658684%26fm%3D214%26gp%3D0.jpg)   
 **小巧可爱，*windows7系统*  挺好玩的**   
-***ps：学习和安装虚拟机过程挺简单的，主要还是要多多请教，多上百度查些资料***   
+***ps：学习和安装虚拟机过程挺简单的，主要还是要多多请教，多上百度查些资料***  ## java环境的配置
+**提供一个非常实用的网址**[c语言中文网](http://c.biancheng.net/c/)   
+**网页里有超多资源，通俗易懂简单实用**
+**还可以咨询一下**[b站视频](https://www.bilibili.com/)   
+最后来个**效果图**展示
+
+
