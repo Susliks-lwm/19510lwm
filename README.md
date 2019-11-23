@@ -160,10 +160,10 @@ $$
 ***当然，最关键的还是群里学长学姐的外挂加持***   
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574414431569&di=084be499f360306e4704c5f2233db811&imgtype=0&src=http%3A%2F%2Fimg.tukexw.com%2Fimg%2F652ee254be5118ab.jpg)
 ## 如何相知
-~~日久生情~~
-**不好意思，打错了**
-**不行，正规任务我要严肃点**   
-![su](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574501135089&di=6b18538f36a91176f41102fb61738595&imgtype=0&src=http%3A%2F%2Fwww.17qq.com%2Fimg_biaoqing%2F76492067.jpeg)   
+~~日久生情~~   
+**不好意思，打错了**   
+**不行，正规任务我要严肃点**      
+![su](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574501135089&di=6b18538f36a91176f41102fb61738595&imgtype=0&src=http%3A%2F%2Fwww.17qq.com%2Fimg_biaoqing%2F76492067.jpeg)      
 **这是我的虚拟机**   
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574499634616&di=82f2cc9be65afb93e243a59f9fa986c5&imgtype=jpg&src=http%3A%2F%2Fimg0.imgtn.bdimg.com%2Fit%2Fu%3D2969496680%2C3755658684%26fm%3D214%26gp%3D0.jpg)   
 **小巧可爱，*windows7系统*  挺好玩的*   
