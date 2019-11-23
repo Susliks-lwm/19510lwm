@@ -159,8 +159,8 @@ $$
 **不好意思，打错了**   
 **不行，正规任务我要严肃点**      
 ![su](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574512210491&di=9cb17930c23de430321727edfee789fd&imgtype=0&src=http%3A%2F%2Fpic.962.net%2Fup%2F2017-8%2F2017824163732565)      
-**这是我的虚拟机**   
-![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574499634616&di=82f2cc9be65afb93e243a59f9fa986c5&imgtype=jpg&src=http%3A%2F%2Fimg0.imgtn.bdimg.com%2Fit%2Fu%3D2969496680%2C3755658684%26fm%3D214%26gp%3D0.jpg)   
+这是我的**虚拟机**   
+![](https://github.com/Susliks-lwm/19510lwm/blob/master/QQ%E5%9B%BE%E7%89%8720191122144716.png)
 **小巧可爱，*windows7系统*  挺好玩的**   
 ***ps：学习和安装虚拟机过程挺简单的，主要还是要多多请教，多上百度查些资料***  ## java环境的配置
 **提供一个非常实用的网址**[c语言中文网](http://c.biancheng.net/c/)   
