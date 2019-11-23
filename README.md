@@ -144,7 +144,7 @@ n\in\mathbb N$
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$  
-![](![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574502404923&di=82f13d2b76b5e42728ebf6c3a6daa764&imgtype=jpg&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D2755298919%2C1966325900%26fm%3D214%26gp%3D0.jpg)   )
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574502404923&di=82f13d2b76b5e42728ebf6c3a6daa764&imgtype=jpg&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D2755298919%2C1966325900%26fm%3D214%26gp%3D0.jpg)   
 **总而言之，b站是个贼香的东西，学东西可以多多光顾**   
 ## 结语   
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574502589238&di=8c763bd4be73933f3a26cdcdbba12000&imgtype=0&src=http%3A%2F%2Fimedl.sogoucdn.com%2Fcache%2Fskins%2FuploadImage%2F2019%2F10%2F29%2F15723536293674_former.png)
