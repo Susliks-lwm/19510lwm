@@ -160,7 +160,7 @@ $$
 **不行，正规任务我要严肃点**      
 ![su](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574512210491&di=9cb17930c23de430321727edfee789fd&imgtype=0&src=http%3A%2F%2Fpic.962.net%2Fup%2F2017-8%2F2017824163732565)      
 这是我的**虚拟机**   
-![](http://wenwen.soso.com/z/q216220187.htm)
+![](http://i0.sinaimg.cn/IT/cr/2009/0805/1215421781.jpg)   
 **小巧可爱，*windows7系统*  挺好玩的**   
 ***ps：学习和安装虚拟机过程挺简单的，主要还是要多多请教，多上百度查些资料***    
 ## java环境的配置   
