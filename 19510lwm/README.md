@@ -1,4 +1,4 @@
-[我的github主页](https://github.com/Susliks-lwm/19510lwm)   
+[我的github主页](https://github.com/Susliks-lwm)      
 # 学习篇之好玩的*markdown*   
 ***你以为很容易?***   
 ![](https://note.youdao.com/yws/api/personal/file/66294A284E5D4290BC9524515C60F9C9?method=download&shareKey=2ac22444598f8c3eda2c87705881b0ff)   
