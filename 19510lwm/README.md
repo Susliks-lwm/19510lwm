@@ -170,6 +170,9 @@ $$
 **还可以咨询一下**[b站视频](https://www.bilibili.com/)   
 最后来个**效果图**展示   
 ![](https://github.com/Susliks-lwm/19510lwm/blob/master/picture/QQ图片20191122144716.png)   
+# 炫酷的自我介绍之截图篇
+![](https://github.com/Susliks-lwm/hellow-word/blob/master/picture/QQ%E5%9B%BE%E7%89%8720191126184524.png)   
+
 
 
 
