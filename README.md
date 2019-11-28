@@ -42,25 +42,25 @@
 ---------------------------
 
 无序列表
-   - Item
-   * Item
-   + Item
+   - 幽默的我
+   * 帅气的我
+   + 你喜欢哪个
 
 有序列表
-1. Item 1
-2. Item 2
-3. Item 3
+1. 苹果
+2. 梨子
+3. 香蕉
 
 待办列表:
-- [ ] Incomplete item
-- [x] Complete item
+- [ ] 学习
+- [x] 学习
 
 
 
 链接
 ---------------------------
 
-A [link](http://example.com).文字链接
+A [link](https://blog.csdn.net/sinat_33224091/article/details/97206378).文字链接  
 
 An image: ![Alt](img.jpg)图片链接
 
@@ -76,8 +76,10 @@ Some `inline code`.
 
 代码块
 ```
-// A code block
-var foo = 'bar';
+int day;
+for(day=0;day<=Mylife;day++)
+printf("Love you")
+
 ```
 
 语言标注
@@ -91,28 +93,28 @@ var foo = 'bar';
 表格
 ---------------------------
 
-Item     | Value
+name     | Value
 -------- | -----
-Computer | $1600
-Phone    | $12
-Pipe     | $1
+学姐     | 1万大洋
+学长    | 1千大洋
+我     | 0.0001
 
 
-| Column 1 | Column 2      |
+| 人生 | 及时               |
 |:--------:| -------------:|
-| centered | right-aligned |
+| 苦短| 学习                |
 
 
 
 自定义列表
 ---------------------------
 
-Markdown
-:  Text-to-HTML conversion tool
+Markdown learning
+:  so easy
 
-Authors
-:  John
-:  Luke
+who says
+:  you guess
+
 
 
 
