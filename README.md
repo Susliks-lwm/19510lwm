@@ -176,7 +176,8 @@ $$
 **网页里有超多资源，通俗易懂简单实用**
 **还可以咨询一下**[b站视频](https://www.bilibili.com/)   
 最后来个**效果图**展示   
-![](https://github.com/Susliks-lwm/19510lwm/blob/master/picture/QQ图片20191122144716.png)
+![](https://github.com/Susliks-lwm/19510lwm/blob/master/picture/QQ图片20191122144716.png)   
+  
 ***
 ## 补充学习经历
 **在看了一些同学写的东西之后，我通过反思，觉得自己真的太菜了，学习经历也没写，就写了一堆放上去，所以我觉得还是很有必要写一下自己的学习过程。   
@@ -185,3 +186,4 @@ $$
 ![](http://gb.cri.cn/mmsource/images/2008/05/17/nx080517014.jpg)   
 
 ***
+  
